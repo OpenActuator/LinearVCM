@@ -10,7 +10,7 @@ This is a Open Source VCM Actuator
 2. Demo System
  - Arduino UNO
  - Driver : L9110 H-bridge
- - Positino Sensor : WS136 Hall Sensor
+ - Position Sensor : WS136 Hall Sensor
 
 Youtube Video : https://youtu.be/6fTvqnk0_eI
 <br><br>
