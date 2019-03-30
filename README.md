@@ -16,4 +16,4 @@ Youtube Video : https://youtu.be/6fTvqnk0_eI
 <br><br>
 Detail Information : http://openactuator.org
 <br><br>
-<img src="http://www.solenoid.or.kr/data/OpenVCM.jpg" border="0" alt="">
+<img src="http://www.solenoid.or.kr/openactuator/OpenVCM_Linear_W/OpenVCM.jpg" border="0" alt="">
