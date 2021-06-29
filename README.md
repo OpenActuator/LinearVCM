@@ -1,4 +1,4 @@
-# OpenVCM
+# LinearVCM
 
 This is a Open Source VCM Actuator
 
