@@ -15,7 +15,7 @@ This is a Open Source VCM Actuator
 Youtube Video : https://youtu.be/6fTvqnk0_eI
 <br><br>
 Detail Information
-  - English : https://solenoid.or.kr/direct/index_linearvcm_eng.html
-  - Korean  : https://solenoid.or.kr/direct/index_linearvcm_kor.html
+ - English : <a href="https://solenoid.or.kr/direct_eng.php?address=https://solenoid.or.kr/openactuator/linear_vcm_eng.htm">Open Source Linear VCM Homepage Link (English)</a><br>
+ - Korean  : <a href="https://solenoid.or.kr/direct_kor.php?address=https://solenoid.or.kr/openactuator/linear_vcm_kor.htm">Open Source Linear VCM Homepage Link (Korean)</a>
 <br><br>
 <img src="http://www.solenoid.or.kr/openactuator/OpenVCM_Linear_W/OpenVCM.jpg" border="0" alt="">
