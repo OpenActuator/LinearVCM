@@ -18,4 +18,4 @@ This is a Open Source VCM Actuator
  - English : <a href="https://solenoid.or.kr/direct_eng.php?address=https://solenoid.or.kr/openactuator/linear_vcm_eng.htm">Open Source Linear VCM Homepage Link (English)</a>
  - Korean  : <a href="https://solenoid.or.kr/direct_kor.php?address=https://solenoid.or.kr/openactuator/linear_vcm_kor.htm">Open Source Linear VCM Homepage Link (Korean)</a>
 <br><br>
-<img src="http://www.solenoid.or.kr/openactuator/OpenVCM_Linear_W/OpenVCM.jpg" border="0" alt="">
+<img src="https://solenoid.or.kr/openactuator/OpenVCM_Linear_W/OpenVCM.jpg" border="0" alt="">
